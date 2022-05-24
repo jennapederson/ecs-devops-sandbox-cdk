@@ -56,7 +56,7 @@ class EcsDevopsSandboxCdkStack(cdk.Stack):
             logging=ecs.LogDrivers.aws_logs(stream_prefix="ecs-devops-sandbox-container")
         )
 
-        service = ecs.FargateTaskDefinition(self,
+        service = ecs.FargateService(self,
             "ecs-devops-sandbox-service",
             cluster=cluster,
             task_definition=task_definition,
