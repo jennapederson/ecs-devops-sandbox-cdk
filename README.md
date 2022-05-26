@@ -1,5 +1,8 @@
+# ecs-devops-sandbox-cdk
 
-# Welcome to your CDK Python project!
+This CDK app accompanies the workshop located at [here](ecs_devops_sandbox_cdk/README.md).
+
+## Setup
 
 This is a blank project for CDK development with Python.
 
