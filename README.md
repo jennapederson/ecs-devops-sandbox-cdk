@@ -1,6 +1,6 @@
 # ecs-devops-sandbox-cdk
 
-This CDK app accompanies the workshop located at [here](https://www.eventbox.dev/published/lesson/automating-cicd-on-aws-with-github-actions/index.html).
+This CDK app accompanies the workshop located at [here.](https://www.jennapederson.com/blog/automate-your-container-deployments-with-ci-cd-and-github-actions/)
 
 ## Setup
 
